@@ -1,0 +1,16 @@
+{
+  "history_file": ".Rhistory(1)",
+  "lines": 512,
+  "datasets": [
+    "GSE45498",
+    "GSE41970"
+  ],
+  "classification": "Exploratory analyses outside final manuscript scope",
+  "ROC_commands_found": false,
+  "other_final_missing_analysis_commands_found": false,
+  "distribution": "Not added as active manuscript code; original upload retained separately",
+  "backup_readme": "Copied unchanged; final gene membership, PPI core, hub and KEGG negative result agree with supplied tables",
+  "backup_folder_named_by_source": "99_FINAL_PROJECT_BACKUP_TNBC_ceRNA_Recurrence",
+  "backup_contents_claim": "R workspace, RDS objects, network, PPI, GO/KEGG, figures, tables and manifest are described by source; this README does not supply or verify those files",
+  "source_creation_timestamp": "2026-06-23 02:33:19.153009; copied metadata, not independently verified"
+}

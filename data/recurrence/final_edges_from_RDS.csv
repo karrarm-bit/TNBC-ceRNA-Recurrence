@@ -1,0 +1,14 @@
+source,target,interaction
+hsa_circRNA_000554,hsa-miR-182-5p,circRNA-miRNA
+hsa_circRNA_000554,hsa-miR-590-5p,circRNA-miRNA
+hsa-miR-182-5p,FOXO3,miRNA-mRNA
+hsa-miR-182-5p,RECK,miRNA-mRNA
+hsa-miR-182-5p,BCL2,miRNA-mRNA
+hsa-miR-182-5p,PPM1L,miRNA-mRNA
+hsa-miR-182-5p,KDM5A,miRNA-mRNA
+hsa-miR-182-5p,CADM1,miRNA-mRNA
+hsa-miR-182-5p,CYLD,miRNA-mRNA
+hsa-miR-182-5p,HOXA9,miRNA-mRNA
+hsa-miR-182-5p,CASP2,miRNA-mRNA
+hsa-miR-182-5p,LSM14A,miRNA-mRNA
+hsa-miR-590-5p,PDCD4,miRNA-mRNA

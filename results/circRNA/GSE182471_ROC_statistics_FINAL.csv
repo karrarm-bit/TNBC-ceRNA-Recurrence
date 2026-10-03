@@ -1,0 +1,2 @@
+"Dataset","circRNA","Direction","AUC","CI_lower","CI_upper"
+"GSE182471","hsa_circRNA_000554","Normal expression > Tumor expression",0.96,0.849127694052026,1

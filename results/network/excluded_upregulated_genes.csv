@@ -1,0 +1,4 @@
+Gene,Direction,Reason
+CBX4,Upregulated_in_Recurrence,Excluded from final ceRNA network because logFC > 0
+STAT3,Upregulated_in_Recurrence,Excluded from final ceRNA network because logFC > 0
+THBS1,Upregulated_in_Recurrence,Excluded from final ceRNA network because logFC > 0

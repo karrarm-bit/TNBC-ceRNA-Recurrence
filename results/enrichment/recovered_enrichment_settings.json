@@ -1,0 +1,80 @@
+{
+  "ego_11": {
+    "pvalueCutoff": [
+      0.05
+    ],
+    "pAdjustMethod": [
+      "BH"
+    ],
+    "qvalueCutoff": [
+      0.2
+    ],
+    "organism": [
+      "Homo sapiens"
+    ],
+    "ontology": [
+      "GOALL"
+    ],
+    "gene": [
+      "2309",
+      "27250",
+      "8434",
+      "596",
+      "151742",
+      "5927",
+      "23705",
+      "1540",
+      "3205",
+      "835",
+      "26065"
+    ],
+    "keytype": [
+      "ENTREZID"
+    ],
+    "readable": [
+      true
+    ],
+    "effective_universe_size": 18860,
+    "stored_result_rows": 144,
+    "adjusted_P_lt_0_05": 144
+  },
+  "ekegg_11": {
+    "pvalueCutoff": [
+      0.05
+    ],
+    "pAdjustMethod": [
+      "BH"
+    ],
+    "qvalueCutoff": [
+      0.2
+    ],
+    "organism": [
+      "hsa"
+    ],
+    "ontology": [
+      "KEGG"
+    ],
+    "gene": [
+      "2309",
+      "27250",
+      "8434",
+      "596",
+      "151742",
+      "5927",
+      "23705",
+      "1540",
+      "3205",
+      "835",
+      "26065"
+    ],
+    "keytype": [
+      "kegg"
+    ],
+    "readable": [
+      false
+    ],
+    "effective_universe_size": 9399,
+    "stored_result_rows": 62,
+    "adjusted_P_lt_0_05": 0
+  }
+}

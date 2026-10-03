@@ -1,0 +1,11 @@
+{
+  "uploaded_file": ".RData(3)",
+  "sha256": "dae9f7d567182bf4bbc0e390d94c2097c52a3934dd4cff37f15f4932569de325",
+  "byte_identical_to_previous_RData_2": true,
+  "reader": "Python rdata.parser",
+  "read_status": "failed",
+  "error": "ValueError: 252 is not a valid RObjectType",
+  "R_runtime_available": false,
+  "interpretation": "Reader could not decode this R workspace; this does not establish corruption. Contents could not be verified. RData is not an R command history.",
+  "distribution": "Workspace bytes excluded from public package because contents and relevance could not be verified."
+}

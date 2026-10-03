@@ -1,0 +1,112 @@
+file,category,status
+README.md,README.md,see README and provenance
+code/combine_ualcan_exports.py,code,see README and provenance
+code/filter_and_validate_ppi.py,code,see README and provenance
+code/plot_final_network.R,code,see README and provenance
+code/validate_and_export_network.py,code,see README and provenance
+code/validate_enrichment_tables.py,code,see README and provenance
+data/processed/GSE43502_final_11_downregulated_targets.csv,data,see README and provenance
+data/processed/consensus_miRNA_targets_59.csv,data,see README and provenance
+documentation/RELEASE_COMPLETENESS.md,documentation,see README and provenance
+documentation/enrichment_validation_report.json,documentation,see README and provenance
+documentation/ppi_validation_report.json,documentation,see README and provenance
+documentation/provenance.json,documentation,see README and provenance
+documentation/ualcan_validation_report.json,documentation,see README and provenance
+documentation/validation_report.json,documentation,see README and provenance
+documentation/تعليمات_الرفع.txt,documentation,see README and provenance
+figures/original_final_ceRNA_network.png,figures,see README and provenance
+results/PPI/final_11_gene_PPI_degree.csv,results,see README and provenance
+results/PPI/final_11_gene_PPI_isolated.csv,results,see README and provenance
+results/PPI/final_11_gene_STRING_edges.csv,results,see README and provenance
+results/UALCAN/subtype_expression_boxplot_summary.csv,results,see README and provenance
+results/circRNA/GSE182471_ROC_statistics_FINAL.csv,results,see README and provenance
+results/enrichment/Final_11_genes_EntrezIDs.csv,results,see README and provenance
+results/enrichment/GO_KEGG_final_11_genes_results.xlsx,results,see README and provenance
+results/enrichment/GO_enrichment_final_11_genes.csv,results,see README and provenance
+results/enrichment/KEGG_enrichment_final_11_genes.csv,results,see README and provenance
+results/enrichment/README_KEGG_no_significant_pathways.txt,results,see README and provenance
+results/miRNA/GSE154255_selected_differential_miRNAs.csv,results,see README and provenance
+results/miRNA/GSE38167_validation_summary.csv,results,see README and provenance
+results/network/ceRNA_edges.csv,results,see README and provenance
+results/network/ceRNA_nodes.csv,results,see README and provenance
+results/network/consensus_59_target_network_degree.csv,results,see README and provenance
+results/network/excluded_upregulated_genes.csv,results,see README and provenance
+results/network/final_11_gene_ceRNA_axis.csv,results,see README and provenance
+results/network/final_ceRNA_node_degree.csv,results,see README and provenance
+source/UALCAN_exports/expression-of-bcl2-in-br.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-cadm1-in-b.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-casp2-in-b.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-cyld-in-br.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-foxo3-in-b.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-hoxa9-in-b.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-kdm5a-in-b.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-lsm14a-in.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-pdcd4-in-b.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-ppm1l-in-b.csv,source,see README and provenance
+source/UALCAN_exports/expression-of-reck-in-br.csv,source,see README and provenance
+source/earlier_survival/PPM1L_236339_at_KM_supplied.png,source,earlier survival source; endpoint/cohort unconfirmed
+source/earlier_survival/PPM1L_KM_image_statistics.csv,source,earlier survival source; endpoint/cohort unconfirmed
+source/earlier_survival/README.md,source,earlier survival source; endpoint/cohort unconfirmed
+source/original_ppi_14_genes/Hub_genes_degree_analysis_ALL_14_GENES.xlsx,source,see README and provenance
+source/original_ppi_14_genes/Hub_genes_degree_analysis_CLEAN_ALL_14_GENES.xlsx,source,see README and provenance
+source/original_ppi_14_genes/Hub_genes_degree_analysis_FINAL.xlsx,source,see README and provenance
+source/original_ppi_14_genes/Isolated_genes_no_STRING_interaction.xlsx,source,see README and provenance
+source/original_ppi_14_genes/PPI_genes.txt,source,see README and provenance
+source/original_ppi_14_genes/string_interactions_short.tsv,source,see README and provenance
+source/original_ppi_14_genes/string_interactions_short.tsv.sif,source,see README and provenance
+source/original_ppi_14_genes/string_node_degrees.tsv,source,see README and provenance
+source/original_scripts/00_Workflow_Figure.R,source,see README and provenance
+source/original_scripts/00_Workflow_Figure_Horizontal.R,source,see README and provenance
+source/original_scripts/01_download_GSE154255.R,source,see README and provenance
+source/original_scripts/03_GSE38167_validation.R,source,see README and provenance
+source/original_scripts/04_GSE101123_circRNA_analysis.R,source,see README and provenance
+source/original_scripts/05_GSE101124_circRNA_validation.R,source,see README and provenance
+source/original_scripts/07_GSE43502_mRNA_analysis.R,source,see README and provenance
+source/original_scripts/09_Search_hsa_circRNA_000554.R,source,see README and provenance
+source/original_scripts/12_ceRNA_Network_Final_11_GSE43502_Sankey_Final_11_UPDATED.R,source,see README and provenance
+source/original_scripts/12_miRNA_Target_Network.R,source,see README and provenance
+source/original_scripts/17_miRNA_Validation_BarPlot.R,source,see README and provenance
+source/original_scripts/18_circRNA_Ranked_Lollipop_Plot.R,source,see README and provenance
+source/original_tables/Final_ceRNA_Network_11_downregulated_genes_GSE43502.xlsx,source,see README and provenance
+source/original_tables/Final_ceRNA_Network_11_downregulated_genes_publication_tables.xlsx,source,see README and provenance
+source/original_tables/earlier_14_gene_ceRNA_axis.csv,source,see README and provenance
+documentation/PUBLICATION_TEXT.md,"Release documentation: newly prepared, not original analysis output","Release documentation: newly prepared, not original analysis output"
+documentation/R_workspace_assessment.json,"Release documentation: newly prepared, not original analysis output","Release documentation: newly prepared, not original analysis output"
+source/original_history/GSE154255_supplied_Rhistory.txt,Original interactive history,Unchanged; incomplete; not executable independently
+source/original_history/README.md,Documentation,History assessment and referenced output paths
+source/original_backup_documentation/README_FINAL_PROJECT_BACKUP.txt,Original backup description,Membership consistent; backup files not established by description
+documentation/additional_history_and_backup_assessment.json,Documentation,New assessment; exploratory history excluded from active analysis
+code/export_and_validate_rds.py,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/GSE43502_full_mrna_results.csv.gz,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/GSE43502_sample_groups.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/GSE43502_sample_metadata.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/GSE43502_supplied_expression_matrix.csv.gz,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/ego_11_df_from_RDS.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/ekegg_11_df_from_RDS.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/final_11_network_genes_from_RDS.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/final_edges_from_RDS.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/final_nodes_from_RDS.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+data/recurrence/gene_df_11_from_RDS.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+documentation/FILE_CLASSIFICATION.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+documentation/SHA256SUMS.txt,RDS export or validation utility,Recovered/checked; no statistical rerun
+documentation/rds_validation_report.json,RDS export or validation utility,Recovered/checked; no statistical rerun
+results/enrichment/ego_11_effective_universe.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+results/enrichment/ego_11_stored_gene_sets.json,RDS export or validation utility,Recovered/checked; no statistical rerun
+results/enrichment/ego_11_stored_result_table.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+results/enrichment/ekegg_11_effective_universe.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+results/enrichment/ekegg_11_stored_gene_sets.json,RDS export or validation utility,Recovered/checked; no statistical rerun
+results/enrichment/ekegg_11_stored_result_table.csv,RDS export or validation utility,Recovered/checked; no statistical rerun
+results/enrichment/recovered_enrichment_settings.json,RDS export or validation utility,Recovered/checked; no statistical rerun
+source/original_rds/ego_11.rds,Original RDS,Original unchanged
+source/original_rds/ego_11_df.rds,Original RDS,Original unchanged
+source/original_rds/ekegg_11.rds,Original RDS,Original unchanged
+source/original_rds/ekegg_11_df.rds,Original RDS,Original unchanged
+source/original_rds/expr_prognosis.rds,Original RDS,Original unchanged
+source/original_rds/final_11_network_genes.rds,Original RDS,Original unchanged
+source/original_rds/final_downregulated_genes.rds,Original RDS,Original unchanged
+source/original_rds/final_edges.rds,Original RDS,Original unchanged
+source/original_rds/final_nodes.rds,Original RDS,Original unchanged
+source/original_rds/gene_df_11.rds,Original RDS,Original unchanged
+source/original_rds/group_mrna.rds,Original RDS,Original unchanged
+source/original_rds/mrna_results.rds,Original RDS,Original unchanged
+source/original_rds/pheno_prognosis.rds,Original RDS,Original unchanged

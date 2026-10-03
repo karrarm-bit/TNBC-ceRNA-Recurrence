@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "original_query_genes": 14,
+  "original_edges": 17,
+  "final_input_genes": 11,
+  "final_connected_genes": 8,
+  "final_edges": 9,
+  "threshold": 0.4,
+  "hub": "BCL2",
+  "hub_degree": 5,
+  "isolated": [
+    "CYLD",
+    "LSM14A",
+    "PPM1L"
+  ],
+  "provenance": "Induced 11-gene subgraph filtered from supplied 14-gene STRING export; not a new STRING query."
+}

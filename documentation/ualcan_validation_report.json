@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "files": 11,
+  "summary_rows": 110,
+  "genes_present": [
+    "BCL2",
+    "CADM1",
+    "CASP2",
+    "CYLD",
+    "FOXO3",
+    "HOXA9",
+    "KDM5A",
+    "LSM14A",
+    "PDCD4",
+    "PPM1L",
+    "RECK"
+  ],
+  "missing_final_genes": [],
+  "group_counts": {
+    "Normal": 114,
+    "Luminal": 566,
+    "HER2Pos": 37,
+    "TNBC-BL1": 13,
+    "TNBC-BL2": 11,
+    "TNBC-IM": 20,
+    "TNBC-LAR": 8,
+    "TNBC-MSL": 8,
+    "TNBC-M": 29,
+    "TNBC-UNS": 27
+  },
+  "data_grain": "One gene/subgroup boxplot summary, not individual samples",
+  "P_values_available": false,
+  "units": "Not present in CSV; manuscript states TPM, verify platform export settings."
+}

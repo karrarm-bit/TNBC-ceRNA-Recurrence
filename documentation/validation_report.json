@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "consensus_genes": 59,
+  "final_mRNAs": 11,
+  "final_nodes": 14,
+  "final_edges": 13,
+  "nominal_P_lt_0_05": 11,
+  "FDR_lt_0_05": 0,
+  "earlier_14_gene_values_match": true,
+  "scope": "Consistency of supplied processed tables; no upstream GEO or web-platform analyses rerun."
+}

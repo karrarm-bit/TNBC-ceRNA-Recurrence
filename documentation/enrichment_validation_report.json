@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "mapped_genes": 11,
+  "GO_exported_terms": 144,
+  "GO_terms_adjusted_P_lt_0_05": 144,
+  "GO_ontology_counts": {
+    "BP": 138,
+    "CC": 6
+  },
+  "GO_adjusted_P_range": [
+    0.00131252458131536,
+    0.0492359753605434
+  ],
+  "KEGG_exported_terms": 0,
+  "scope": "Validation of supplied exported results, not rerun enrichment; full tested universe and database versions not provided."
+}

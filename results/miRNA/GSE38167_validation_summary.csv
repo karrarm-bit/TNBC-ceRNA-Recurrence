@@ -1,0 +1,4 @@
+"miRNA","Validation ID","Discovery direction","Validation direction","Tumour mean","Normal mean","P-value","Validation status"
+"hsa-miR-590-5p","hsa-miR-590-5p","Up","Up",70.6007838709677,28.4401827391304,0.00105,"Validated"
+"hsa-miR-182-5p","hsa-miR-182","Up","Up",38.6510529677419,6.06525654347826,1.34e-06,"Validated"
+"hsa-miR-452-5p","hsa-miR-452","Down","Up",15.8401165483871,13.4783052478261,0.876,"Not validated"
